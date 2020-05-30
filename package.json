@@ -1,0 +1,12 @@
+{
+  "name": "simple-chat",
+  "version": "2.0.0",
+  "dependencies": {
+    "express": "^4.15.4",
+    "pug": "^2.0.0-rc.4",
+    "socket.io": "^2.0.3"
+  },
+  "devDependencies": {
+    "standard": "^10.0.3"
+  }
+}
